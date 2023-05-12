@@ -4,9 +4,7 @@ title:        "《补言资源网》推荐语"
 author:       "补言"
 header-style: text
 catalog:      true
-tags:
-    - Web
-    - JavaScript
+
 ---
 
 > 雪碧（doodlewind）邀请我给[《JavaScript 二十年》](https://zhuanlan.zhihu.com/p/373065151) 写的推荐序。
