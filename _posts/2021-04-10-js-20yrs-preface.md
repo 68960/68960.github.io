@@ -1,7 +1,7 @@
 ---
 layout:       post
-title:        "《JavaScript 二十年》推荐语"
-author:       "Hux"
+title:        "《补言资源网》推荐语"
+author:       "补言"
 header-style: text
 catalog:      true
 tags:
